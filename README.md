@@ -20,6 +20,13 @@ The ASL Real-Time Translation Model leverages MediaPipe for detecting key landma
 - **TensorFlow:** Used for building and training the neural network model.
 - **OpenCV:** For handling video input and preprocessing frames for landmark detection.
 
+## Example of Model in Action
+
+Here's an example of the model predicting signs as they are being signed:
+
+![ASL Model in Action](testImage.png)
+
+
 ## Getting Started
 
 To get started with the ASL Real-Time Translation Model, follow these steps:
